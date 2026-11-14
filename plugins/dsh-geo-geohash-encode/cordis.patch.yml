@@ -1,0 +1,4 @@
+# 地理工具：geohash encode
+- insert:
+    - id: dsh-geo-geohash-encode
+      name: "dsh-geo-geohash-encode"

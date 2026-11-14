@@ -1,0 +1,4 @@
+# 地理工具：geohash decode
+- insert:
+    - id: dsh-geo-geohash-decode
+      name: "dsh-geo-geohash-decode"

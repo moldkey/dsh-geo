@@ -1,0 +1,4 @@
+# 地理工具：dms to decimal
+- insert:
+    - id: dsh-geo-dms-to-decimal
+      name: "dsh-geo-dms-to-decimal"

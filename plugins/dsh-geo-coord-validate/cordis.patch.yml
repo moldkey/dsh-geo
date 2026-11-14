@@ -1,0 +1,4 @@
+# 地理工具：coord validate
+- insert:
+    - id: dsh-geo-coord-validate
+      name: "dsh-geo-coord-validate"
